@@ -1,0 +1,2 @@
+# Guess-the-number
+These line of codes will allow you to play a simple number guessing game. You'll have a fixed no. of attempts in which you'd have to guess the number and if you run out of the no. of attempts then the game would be over for you. Each attempt will show you if your selected number is greater or less than the number to guess and if you'll be really close to it then it will show you. So, it'll be fun to play this game.
